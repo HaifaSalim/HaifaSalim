@@ -1,6 +1,4 @@
-# 💫 About Me:
 I'm currently working on an AI language tutor app :)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haifa-salim-143311128/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haifasalimtv@gmail.com) 
